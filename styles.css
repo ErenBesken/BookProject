@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+body{
+ background-color: #252525;
+ color: white;
+ font-family: 'Poppins', sans-serif;
+ margin: 2rem;
+}
+
+header{
+    margin-bottom: 20px;
+}
+
+
+.book-picture{
+    max-width: 300px;
+    border-radius: 2rem;
+    box-shadow: 1px 5px 10px 10px rgba(0,0,0, 0.4);
+}
+
+.button{
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
